@@ -1,4 +1,4 @@
-# 📊 Project Title
+# Project Title
 
 > A brief description of what the project does and its purpose.
 
