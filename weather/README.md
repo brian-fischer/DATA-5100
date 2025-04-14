@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
 
@@ -14,7 +14,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/                 # Raw and processed data
@@ -26,7 +26,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## 🗂️ Data
+## Data
 
 - **Source:** Link to the data source(s) 
 - **Description:** Brief overview of the dataset features, size, and format
@@ -34,31 +34,31 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 ---
 
-## 📊 Analysis
+## Analysis
 
 Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
 
 ---
 
-## 📈 Results
+## Results
 
 Include a short discussion of the findings and what they imply.
 
 ---
 
-## 👤 Authors
+## Authors
 
 - Your Name - [@yourhandle](https://github.com/yourhandle)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - Tools/libraries used
 - Tutorials or papers referenced
